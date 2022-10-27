@@ -2997,6 +2997,7 @@ input[type="number"].wpneo_donate_amount_field {
 
 .gamfi-previous-section .previous-item .previous-gaming .previous-price a {
     transition: 0.4s;
+    font-size: 10px;
 }
 
 .gamfi-previous-section .previous-item .previous-gaming .previous-price a:hover {
